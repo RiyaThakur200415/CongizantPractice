@@ -1,0 +1,44 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Angular Fundamentals",
+      "instructor": "John Smith",
+      "credits": 4
+    },
+    {
+      "id": 2,
+      "name": "TypeScript Basics",
+      "instructor": "Sarah Wilson",
+      "credits": 3
+    },
+    {
+      "id": 3,
+      "name": "Web Development",
+      "instructor": "David Lee",
+      "credits": 5
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Arpita"
+    },
+    {
+      "id": 2,
+      "name": "Rahul"
+    }
+  ],
+  "enrollments": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "courseId": 1
+    },
+    {
+      "id": 2,
+      "studentId": 2,
+      "courseId": 2
+    }
+  ]
+}
